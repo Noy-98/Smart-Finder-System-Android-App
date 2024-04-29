@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Smart_Finder_App</string>
+    <string name="google_map_api_key">AIzaSyAiiwdV7fY14kGoSd1g7CxIDddx4dfVY_g</string>
+    <string name="Title_Name">Smart Finder</string>
+    <string name="login_text">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="home">Home</string>
+    <string name="logs">Logs</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="connected_devices">Connected Devices</string>
+    <string name="logout">logout</string>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "891870339378",
+    "firebase_url": "https://gps-tracker-system-2ce51-default-rtdb.firebaseio.com",
+    "project_id": "gps-tracker-system-2ce51",
+    "storage_bucket": "gps-tracker-system-2ce51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891870339378:android:2defcd7ec9facf031c372b",
+        "android_client_info": {
+          "package_name": "com.example.smart_finder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyOAC-MFZOJwGkmDd80Z6BjSUUMKRbaHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
